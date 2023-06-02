@@ -1,0 +1,60 @@
+name: stronglier
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: '>=2.19.0-374.0.dev <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  firebase_auth: ^4.2.10
+  firebase_core: ^2.7.1
+  firebase_storage: ^11.1.2
+  firebase_messaging: ^14.5.0
+  shared_preferences: ^2.0.18
+  animated_text_kit: ^4.2.2
+  cloud_firestore: ^4.6.0
+  get: ^4.6.5
+  intl: ^0.17.0
+  carousel_slider: ^4.2.1
+  search_page: ^2.3.0
+  flutter_easyloading: ^3.0.5
+  flutter_slidable: ^3.0.0
+  getwidget: ^3.1.1
+  image_picker: ^0.8.5+3
+  flutter_cache_manager: ^3.3.0
+  cached_network_image: ^3.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/healthcare-3610.png"
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/roboto/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/roboto/Roboto-Bold.ttf
+          weight: 600
+
+  assets:
+    - assets/images/
+    - assets/images/facebook.png
+    - assets/images/google.png
+

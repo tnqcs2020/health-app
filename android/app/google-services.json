@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "757755643693",
+    "project_id": "nien-luan-nganh-khmt-2023",
+    "storage_bucket": "nien-luan-nganh-khmt-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757755643693:android:c7935f575c44a69de6f5a4",
+        "android_client_info": {
+          "package_name": "com.example.nln_b1913331"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757755643693-vnsi0or3buab7no24icluk0c6v2am1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1U4TQTIeacdVeaSzbBisIqr_yM2OQEto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757755643693-vnsi0or3buab7no24icluk0c6v2am1oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757755643693:android:646ea41e9e87b284e6f5a4",
+        "android_client_info": {
+          "package_name": "com.example.stronglier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757755643693-vnsi0or3buab7no24icluk0c6v2am1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1U4TQTIeacdVeaSzbBisIqr_yM2OQEto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757755643693-vnsi0or3buab7no24icluk0c6v2am1oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
